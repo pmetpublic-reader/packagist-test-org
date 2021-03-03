@@ -1,0 +1,13 @@
+{
+    "name": "temando/packagist-test-org",
+    "version": "1.0.1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Keith Bentrup",
+            "email": "kbentrup@adobe.com"
+        }
+    ],
+    "require": {}
+}
+
