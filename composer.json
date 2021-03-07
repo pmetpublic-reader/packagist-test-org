@@ -1,6 +1,6 @@
 {
-    "name": "magento-cloud/reserve-packagist-namespace",
-    "version": "1.0.1",
+    "name": "paradoxlabs/tokenbase",
+    "version": "1.0.5",
     "type": "project",
     "authors": [
         {
